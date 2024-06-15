@@ -10,3 +10,13 @@ To simplify this model
 3.Upload the image you want to use filters
  
 U will be able to see the filters in three blocks
+
+Sample outputs
+
+(https://github.com/srinivasprabhas/Activation_maps/blob/main/output1.png)
+
+(https://github.com/srinivasprabhas/Activation_maps/blob/main/output%201%20b2.png)
+
+(https://github.com/srinivasprabhas/Activation_maps/blob/main/output%201%20b3.png)
+
+
